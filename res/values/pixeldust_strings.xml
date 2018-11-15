@@ -83,7 +83,7 @@
     <string name="brightness_slider_title">Show slider</string>
     <string name="brightness_slider_summary">Show the brightness slider above quick settings</string>
     <string name="brightness_icon_title">Show icon</string>
-    <string name="brightness_icon_summary">Show a brightness icon to the left of the brighness slider to adjust auto-brightness</string>
+    <string name="brightness_icon_summary">Show a brightness icon to the left of the brightness slider to adjust auto-brightness</string>
 
     <!-- Navbar Settings -->
     <string name="enable_navigation_bar_title">Enable navigation bar</string>
@@ -100,7 +100,7 @@
 
     <!-- Lockscreen charging current indicator  -->
     <string name="lockscreen_charging_current_title">Lockscreen charging info</string>
-    <string name="lockscreen_charging_current_summary">Display negociated charger max current and voltage on lockscreen</string>
+    <string name="lockscreen_charging_current_summary">Display negotiated charger max current and voltage on lockscreen</string>
 
     <!-- Fingerprint vibrate -->
     <string name="fprint_sucess_vib_title">Fingerprint authentication vibration</string>
@@ -248,7 +248,7 @@
     <!-- Hide Apps from Recents -->
     <string name="hide_apps_from_recents_title">Hide apps from recents</string>
     <string name="hide_from_recents_add_app">Add App</string>
-    <string name="hide_apps_from_recents_summary">Select certian apps to hide in recents</string>
+    <string name="hide_apps_from_recents_summary">Select certain apps to hide in recents</string>
 
     <!-- Mobile type icon style -->
     <string name="use_old_mobiletype_title">Use old mobile type style</string>
